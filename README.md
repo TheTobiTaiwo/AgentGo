@@ -59,10 +59,10 @@ This project automates the process of generating a Python script using a multi-a
 
 ### Running the Application
 
-To run the code generator, simply execute the `main.py` file:
+To run the code generator, simply execute the `AgentGo.py` file:
 
 ```bash
-python main.py
+python AgentGo.py
 ```
 
 The generated Python script will be saved as `app.py`.
